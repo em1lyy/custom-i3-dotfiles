@@ -1,0 +1,18 @@
+# rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+rofi.combi-modi:    window,drun,ssh
+rofi.modi:          run,drun
+rofi.width: 100
+rofi.lines: 3
+rofi.padding: 800
+rofi.eh: 2
+rofi.opacity: 85
+rofi.bw: 0
+rofi.font: SFNS Display 18
+rofi.bc: ${color0}
+rofi.bg: ${color0}
+rofi.fg: ${color0}
+rofi.hlbg: ${color0}
+rofi.hlfg: ${color7}
+rofi.color-normal: argb:d6${color0a}, ${color2}, argb:d6${color0a}, argb:d6${color0a}, ${color7}
+rofi.color-window: argb:d6${color0a}, argb:d6${color0a}
+rofi.hide-scrollbar: true

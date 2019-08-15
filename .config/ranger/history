@@ -1,0 +1,11 @@
+hidden
+show
+mkdir scripts
+chmod +x firefoxChrome.sh
+unzip
+open_with 
+
+rename bootlogo0.png
+rename bootlogo1.png
+rename bootlogo2.png
+rename bootlogo3.png

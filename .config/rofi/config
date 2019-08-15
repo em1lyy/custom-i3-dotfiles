@@ -1,0 +1,18 @@
+# rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+rofi.combi-modi:    window,drun,ssh
+rofi.modi:          run,drun
+rofi.width: 100
+rofi.lines: 3
+rofi.padding: 800
+rofi.eh: 2
+rofi.opacity: 85
+rofi.bw: 0
+rofi.font: SFNS Display 18
+rofi.bc: #1a0f19
+rofi.bg: #1a0f19
+rofi.fg: #1a0f19
+rofi.hlbg: #1a0f19
+rofi.hlfg: #c9a9c0
+rofi.color-normal: argb:d61a0f19, #953260, argb:d61a0f19, argb:d61a0f19, #c9a9c0
+rofi.color-window: argb:d61a0f19, argb:d61a0f19
+rofi.hide-scrollbar: true
